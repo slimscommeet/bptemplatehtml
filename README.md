@@ -25,6 +25,11 @@ Ini adalah template web yang dibuat menggunakan html, css , js dan gambar. Gamba
 
 Template ini asli dibuat oleh [ColorLib](https://colorlib.com/) dimodifikasi oleh [Zaemakhus](https://github.com/desawarna) untuk pelatihan *SLiMS Template Development*
 
+### Live Demo Template 
+
+Anda dapat melihat live demo template HTML ini di slimscommeet/bptemplatehtml
+[https://slimscommeet.github.io/bptemplatehtml/](https://slimscommeet.github.io/bptemplatehtml/)
+
 ### Template Versi PHP
 
 Template Versi PHP dapat anda download di [https://github.com/slimscommeet/bpphp-scu8](https://github.com/slimscommeet/bpphp-scu8)
